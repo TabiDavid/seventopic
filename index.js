@@ -17,3 +17,4 @@ colorOne.style.color = "yellow";
 window.onload = function(){
 document.getElementById("outPut").onclick = change;
 }
+
